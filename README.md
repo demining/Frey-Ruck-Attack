@@ -1,5 +1,6 @@
 
-<p><strong><a href="https://github.com/demining/CryptoDeepTools/tree/main/14FreyRuckAttack" target="_blank" rel="noreferrer noopener">Source</a></strong></p>
+<figure class="wp-block-image"><img src="./Implement Frey-Rück Attack to get the secret key_K_NONCE_files/018-1024x576.png" alt="Implement Frey-Rück Attack to get the secret key &quot;K&quot; (NONCE)" class="wp-image-1100"></figure>
+
 
 <p>In this article, we implement an efficient&nbsp;<a href="https://attacksafe.ru/frey-ruck-attack-on-bitcoin/" target="_blank" rel="noreferrer noopener">Frey-Rück Attack</a>&nbsp;algorithm for signing&nbsp;<code>ECDSA</code>a transaction on the Bitcoin blockchain.&nbsp;In our earlier posts, we touched on the topic of signature vulnerability several times&nbsp;<code>ECDSA</code>.&nbsp;With a critical vulnerability in the Bitcoin blockchain transaction, we can solve the rather difficult discrete logarithm problem to extract the&nbsp;<code>ECDSA</code>&nbsp;<em>secret key</em><code>"K" (NONCE)</code>&nbsp;from the vulnerable signature in order to ultimately restore the Bitcoin Wallet, since knowing the secret key we can get the private key.</p>
 
