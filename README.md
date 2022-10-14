@@ -5,7 +5,7 @@
 ---
 
 * Tutorial: https://youtu.be/wqHES7r1qyc
-* Tutorial: https://cryptodeep.ru/frey-ruck-attack
+* Tutorial: https://cryptodeeptech.ru/frey-ruck-attack
 
 ---
 
